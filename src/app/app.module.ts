@@ -28,7 +28,7 @@ const routes: Routes = [
   { path: '', redirectTo: '/users', pathMatch: 'full' },
   { path: 'users', component: UsersComponent },
   { path: 'user/:id', component: UserComponent },
-  { path: '**', component: NotFoundComponent }
+  { path: '**', component: NotFoundComponent }//To other urls render this component
 
 ]
 

@@ -13,6 +13,7 @@ export class UserService {
     this.users = this.http.get(this.url);
     return this.users
   }
+  //Setting Data coming From users component into users variable
   setUser(data) {
     this.users = data
   }
