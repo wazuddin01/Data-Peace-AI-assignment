@@ -13,6 +13,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Running
 After Running app will look like this
+
+#### Hover through `Name` to see the details
 ![](IMG_20190403_184146.jpg)
 
 ![](IMG_20190403_184214.jpg)
